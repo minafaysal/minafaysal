@@ -44,6 +44,11 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+👯 I’m learnt web developing in ITI Frontend development track
+🤔 I’m Writing clean code with current best practices and approaches
+💬 Ask me about Software Engineering
+📫 How to reach me: minafaysal.94@gmail.com
+⚡ Fun fact: I am a gammer.
 
 ---
 
